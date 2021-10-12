@@ -1,0 +1,1 @@
+{"appName":"kustomize-guestbook","userGivenName":"kustomize-guestbook","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"apps/kustomize-guestbook/overlays/testing","srcRepoURL":"https://github.com/chetan-rns/gitops-pilot.git","srcTargetRevision":"","labels":null}
